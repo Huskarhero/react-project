@@ -38,6 +38,7 @@ function App() {
 
       setList([...list, newItem]);
       setName('');
+      setIsEditing(false);
     }
   };
 
