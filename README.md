@@ -19,22 +19,22 @@
 4. Questions
 5. Menu
 6. Tabs
-7. Slider
+7. Stripe Menu
+8. Slider
 
 #### Forms
 
-8. Lorem Ipsum Generator
-9. Color Shades Generator
-10. Grocery Bud
+9. Lorem Ipsum Generator
+10. Color Shades Generator
+11. Grocery Bud
 
 #### useRef
 
-11. Navbar
+12. Navbar
 
 #### useContext
 
-12. Modal And Sidebar
-13. Stripe Submenus
+13. Modal and Sidebar
 
 #### useReducer and useContext
 
@@ -44,8 +44,9 @@
 
 15. Cocktails
 
-## Advanced Projects (Course Exclusive)
+## Advanced Projects
 
+Course Exclusive
 [Course Link](https://www.udemy.com/course/react-tutorial-and-projects-course/?couponCode=REACT-OCT)
 
 16. Markdown Preview
